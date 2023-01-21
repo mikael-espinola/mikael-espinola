@@ -1,9 +1,12 @@
 ### Olá! Eu sou o Mikael Espínola 👋
 
-Eu sou um estudante em desenvolvimento de software com foco na área Full Stack buscando a melhoria constante da prática.
+Eu sou um estudante em desenvolvimento de software com foco na área Full Stack. Estarei aqui compartilhando meus aprendizados com projetos opensource e pessoais.
+<div>
 
 ![Espinola's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikael-espinola&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-espinola&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
