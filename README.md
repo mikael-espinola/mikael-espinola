@@ -5,7 +5,7 @@ Eu sou um estudante em desenvolvimento de software com foco na área Full Stack.
 
 ![Espinola's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikael-espinola&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-espinola&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-espinola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ## Tecnologias que uso no meu dia
 
