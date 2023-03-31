@@ -12,7 +12,7 @@ Eu sou um estudante em desenvolvimento de software com foco na área Full Stack.
 
 
 
-## Tecnologias que uso no meu dia
+## Techs
 <div style="display: inline_block">
     <img align="center" alt="mikael-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="mikael-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
