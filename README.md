@@ -1,6 +1,6 @@
-## Olá! Eu sou o Mikael Espínola 👋 Seja bem-vindo(a) ao meu espaço de aprendizado e trabalho. Espero te ver em breve. 
+## Hello everyone, I'm Mikael Espínola 👋 Welcome to my space of learning and work. Hope to see you soon. 
 
-Eu sou um estudante em desenvolvimento de software com foco na área Full Stack. Estarei aqui compartilhando meus aprendizados com projetos opensource e pessoais.
+I am a student in software development with a focus on Full Stack. I will be here sharing my learning with opensource and personal projects.
 <div>
     
 ## GitHub Stats
@@ -30,6 +30,6 @@ Eu sou um estudante em desenvolvimento de software com foco na área Full Stack.
    
 </div><br/><br/>
 
-### CONTATOS:
+### Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaelespinola/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelespinolaa@gmail.com)
