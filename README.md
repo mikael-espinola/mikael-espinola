@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Mikael Espínola 👋 Welcome to my space of learning and work. Hope to see you soon. 
 
-I am a student in software development with a focus on Full Stack. I will be here sharing my learning with opensource and personal projects.
+I am a student in software development with a focus on Front-End. I will be here sharing my learning with opensource and personal projects.
 <div>
     
 ## GitHub Stats
